@@ -39,7 +39,7 @@
 - ⚡ Fun fact: I love to cook and travel.
 
 [![Twitter: computerwala](https://img.shields.io/twitter/follow/computerwala?style=social)](https://twitter.com/computerwala07)
-[![Linkedin: Aman](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/computerwala/)](https://www.linkedin.com/in/aman-kumar-soni/)
+[![Linkedin: Aman](https://img.shields.io/badge/-computerwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/computerwala/)](https://www.linkedin.com/in/aman-kumar-soni/)
 [![GitHub computerwala](https://img.shields.io/github/followers/computerwala?label=follow&style=social)](https://github.com/computerwala)
 
 
