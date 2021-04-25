@@ -31,6 +31,7 @@
 
 
 - 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC5jXmD6FVuBLo7mIIA-PiaQ?view_as=subscriber).
 - 🤔 I’m looking for help me with open source contribution .
 - 💬 Ask me about any tech related stuff.
