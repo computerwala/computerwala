@@ -31,9 +31,9 @@
 
 
 - 🌱 I’m currently learning React.
-- 🌱 I’m currently learning Angular.
+- 🌱 Next learning will be Angular.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC5jXmD6FVuBLo7mIIA-PiaQ?view_as=subscriber).
-- 🤔 I’m looking for help me with open source contribution .
+- 🤔 I’m looking for help me with open source contribution.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [Twitter - @computerwala07](https://twitter.com/computerwala07) , [LinkedIn - @Aman_Kumar_Soni](https://www.linkedin.com/in/aman-kumar-soni/)
 - 😄 Pronouns: He/His
