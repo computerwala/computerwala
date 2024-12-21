@@ -1,4 +1,4 @@
-# Hey, I'm Aman Kumar 👋 👨‍💻
+# Hey, I'm Aman👋 👨‍💻
 
 <img src="https://raw.githubusercontent.com/computerwala/computerwala/master/Aman Kumar Soni.png" alt="banner that says Aman Kumar Soni - computer science student">
 👦Aman is a developer and Computer Science💻 Student with a wide range of experience in both frontend and backend technologies, Machine Learning and in cloud computing technologies🛠. He spends most of his time sipping coffee, writing code, debating software architecture structures, and speaking in Emoji. In his free time he is hanging out with his friends, watching Netflix, and making some dank memes. You can find Aman(aka COMPUTERWALA) and pretending to be artsy🎈.
