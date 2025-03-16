@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning LLMs.<br>- 🌱 Next learning will be Web3.<br>- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC5jXmD6FVuBLo7mIIA-PiaQ?view_as=subscriber).<br>- 🤔 I’m looking for help me with open source contribution.<br>- 💬 Ask me about any tech related stuff.<br>- 📫 How to reach me: [Twitter - @computerwala07](https://twitter.com/computerwala07) , [LinkedIn - @Aman_Kumar_Soni](https://www.linkedin.com/in/aman-kumar-soni/)<br>- 😄 Pronouns: He/His<br>- ⚡ Fun fact: I love to cook and travel.
+<br>- 🌱 I’m currently learning LLMs.<br>- 🌱 Next learning will be Web3.<br>- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC5jXmD6FVuBLo7mIIA-PiaQ?view_as=subscriber).<br>- 🤔 I’m looking for help me with open source contribution.<br>- 💬 Ask me about any tech related stuff.<br>- 📫 How to reach me: [Twitter - @computerwala07](https://twitter.com/computerwala07) , [LinkedIn - @Aman_Kumar_Soni](https://www.linkedin.com/in/aman-kumar-soni/)<br>- 😄 Pronouns: He/His<br>- ⚡ Fun fact: I love to cook and travel.
 
 
 ## 🌐 Socials:
